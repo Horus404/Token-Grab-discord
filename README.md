@@ -1,1 +1,1 @@
-# Token-Grab-discord
+# TokenGrab-discord
